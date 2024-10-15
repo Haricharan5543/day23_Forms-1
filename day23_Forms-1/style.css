@@ -1,0 +1,31 @@
+form{
+    background-color: lightgrey;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+
+form label{
+    width: 300px;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+form div{
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+}
+legend{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#button{
+    justify-content: center;
+    align-items: center;
+}
+
+
